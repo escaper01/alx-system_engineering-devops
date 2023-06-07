@@ -1,6 +1,3 @@
-# alx-system_engineering-devops
-Made this repo to answer all tasks related to 0x00. Shell, basics
+# alx-system engineering-devop
 
-
-### 0-current_working_directory
-this script is to show te current folder 
+I made this repo for 0x00. Shell, basics tasks
