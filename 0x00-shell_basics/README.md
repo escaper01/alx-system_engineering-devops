@@ -6,3 +6,6 @@ list all the current files and directories
 
 ### 2-bring_me_home
 get the home directory
+
+### 3-listfiles
+get the current directory content in the longer version
