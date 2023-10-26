@@ -11,5 +11,5 @@ do
 	else
 		echo "Best School"
 	fi
-	counter=$((i - 1))
+	counter=$((i + 1))
 done
