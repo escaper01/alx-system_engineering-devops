@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#displays "Holberton School" 10 times using while loop
+
 counter=10
 while [ $counter -ne 0 ]
 do

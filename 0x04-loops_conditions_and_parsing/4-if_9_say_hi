@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# This script is displaying "Holberton School" 10 times
+# but for the 9th iteration, displays Holberton School and then Hi on a new line.
+
 for i in {1..10}; do
 	if [[ i -eq 9 ]]
 	then
