@@ -3,7 +3,7 @@
 # but for the 9th iteration, displays Holberton School and then Hi on a new line.
 
 i=0
-while [ $i -ne 10 ]
+while [ $i -ne 11 ]
 do
 	if [[ i -eq 9 ]]
 	then
