@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# ssh_config comment
 Host my-alx-server
 	Hostname 100.25.177.206
 	User ubuntu
