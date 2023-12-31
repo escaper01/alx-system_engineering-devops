@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 Host my-alx-server
 	Hostname 100.25.177.206
 	User ubuntu
