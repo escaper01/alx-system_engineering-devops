@@ -1,5 +1,5 @@
 # Authentication Service Outage: A Postmortem Analysis
-![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGczb2htMjg2cWFjdTI4ZXhjdjY5YXBicXFiejJvb2lnaXR6bDdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy360p.mp4)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdjejNyMjJ6b3RrejY2bm55aXB1b2liNjY0NzZ1eHBkdGoxbmoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieSrUnxoQRrtWwM/giphy.gif)
 
 ### Duration:
 The outage occurred from 10:00 AM to 2:00 PM (UTC) on February 15, 2024.
